@@ -1,0 +1,62 @@
+body{
+    height: 100vh;
+    margin: 0;
+    /* The image used */
+    
+}
+
+h1{
+   
+    color: white;
+    font-weight: bold;
+    font-size: 2.5em;
+    font-family: 'Audio Nugget', sans-serif;
+    text-align: center;
+    margin-top: 0;
+
+}
+h2{
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Unbounded', sans-serif;
+}
+a.linkheader{
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Unbounded', sans-serif;
+    text-decoration: none;
+}
+div{    
+    height: 100vh;
+    background-image: url("image/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20vh;
+    box-sizing: border-box;
+    text-align: center;
+}
+a.goback{
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Audio Nugget', sans-serif;
+    text-decoration: none;
+    margin-top: 50vh;
+    float:right;
+
+}
+
+
+
+    
+       
+      
+     
+      
+    
+      
+ 
